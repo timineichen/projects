@@ -1,5 +1,5 @@
-from get_private_key import get_private_key
-from rsa import rsa 
+from functions.get_private_key import get_private_key
+from functions.rsa import rsa 
 
 def main():
     p = 223  # die Primzahlen p und q
